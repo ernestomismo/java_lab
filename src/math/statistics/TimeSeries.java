@@ -1,5 +1,6 @@
 package math.statistics;
 
+// prueba
 public class TimeSeries {
 
 	public static double[] movingAverage(double[] timeSeries, int interval){
